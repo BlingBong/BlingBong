@@ -78,7 +78,7 @@
     <img align="center" alt="BlingBong | Instagram" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/qifnav/" target="_blank">
+  <a href="https://open.spotify.com/user/vanfiqnoises?si=a9d711643ae24d9a" target="_blank">
     <img align="center" alt="BlingBong | Spotify" width="42px" src="http://icons.iconarchive.com/icons/blackvariant/button-ui-requests-2/1024/Spotify-icon.png" />
   </a> &nbsp;&nbsp;
   
