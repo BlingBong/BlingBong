@@ -13,7 +13,7 @@
 </div>
 
 - 💳 I was born with the name **Rivano Ardiyan Taufiq Kurniawan** <img src="https://pa1.narvii.com/6560/f020f649d2f3e80e723cfdd92f2538541ad05152_hq.gif" width="390" align="right"/>
-- 🏫 I'm a 3rd year student at **Universitas Pembangunan Nasional "Veteran" Yogyakarta**
+- 🏫 I'm a final year student at **Universitas Pembangunan Nasional "Veteran" Yogyakarta**
 - 💻 I'm majoring in **Informatics**
 - 🌏 I live in **Sragen, Indonesia**
 - 📱 Lately, I focus on learning Android Development
