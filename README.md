@@ -17,7 +17,7 @@
 - 💻 I'm majoring in **Informatics**
 - 🌏 I live in **Sragen, Indonesia**
 - 📱 Lately, I focus on learning Android Development
-- ⏲️ I've also learned about Web Development, Python for Machine Learning, and AR/VR
+- ⏲️ I've also learned about Web Development, Python for Machine Learning, AR/VR, and also have a high interest in Graphic Design (especially UI/UX)
 - ⛄ I'm interested in literally everything, you can talk to me about anything
 - ⚡ **Special Ability:** I can do some metal screams if you are interested
 - 🏄‍♂️ Always remember, Jack Kahuna Laguna once said, ***"Just Keep Breathing."***
