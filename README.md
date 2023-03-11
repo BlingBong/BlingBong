@@ -89,5 +89,5 @@
 
 <div align="center">
   <h4>💝 Thanks for visiting my profile! Have a great day! 💝</h4>
-  &copy; 2022 BlingBong, Inspired by: <a href="https://github.com/tienhuynh-tn" target="_blank">tienhuynh-tn</a>
+  &copy; 2023 BlingBong, Inspired by: <a href="https://github.com/tienhuynh-tn" target="_blank">tienhuynh-tn</a>
 </div>
