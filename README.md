@@ -13,10 +13,10 @@
 </div>
 
 - 💳 I was born with the name **Rivano Ardiyan Taufiq Kurniawan** <img src="https://pa1.narvii.com/6560/f020f649d2f3e80e723cfdd92f2538541ad05152_hq.gif" width="390" align="right"/>
-- 🏫 I'm a final year student at **Universitas Pembangunan Nasional "Veteran" Yogyakarta**
-- 💻 I'm majoring in **Informatics**
-- 🌏 I live in **Sragen, Indonesia**
-- 📱 Lately, I focus on learning Android Development
+- 🏫 I am a fresh graduate from **Universitas Pembangunan Nasional "Veteran" Yogyakarta**
+- 💻 I am majoring in **Informatics**
+- 🌏 I am originally from **Sragen, Indonesia**, but currently residing in **Yogyakarta, Indonesia**
+- 📱 Lately, I focus on learning Android Development & Multi-Platform Development
 - ⏲️ I've also learned about Web Development, Python for Machine Learning, AR/VR, and also have a high interest in Graphic Design (especially UI/UX)
 - ⛄ I'm interested in literally everything, you can talk to me about anything
 - ⚡ **Special Ability:** I can do some metal screams if you are interested
@@ -66,7 +66,7 @@
 </div>
 
 <p align="center">
-  <a href="mailto:rivano.atkn@gmail.com" >
+  <a href="mailto:rivano.atkn@gmail.com">
     <img align="center" alt="BlingBong | Gmail" width="42px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
